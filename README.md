@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently the Data Director at Sunrise Movement, the largest youth-led climate organization in the United States  
-- 💬 Ask me about how to leverage data for climate  
+- 🔭 I’m currently the Data Director at Working Families Party, working to build a multiracial party of working people.
+- 💬 Ask me about about my favorite Redshift function  
 - 📫 Check out my website for more info: [brittanybennett.com](https://www.brittanybennett.com/)  
 - 😄 Pronouns: she/her/hers  
  
